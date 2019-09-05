@@ -1,6 +1,6 @@
-# my-project
+# Vue Composition API Demo
 
-> A Vue.js project
+[Shailen Naidoo]() showcased his understanding of the Vue Composition API and how it solves the reusability of stateful logic  
 
 ## Build Setup
 
