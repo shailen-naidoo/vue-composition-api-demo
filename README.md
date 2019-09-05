@@ -1,6 +1,6 @@
 # Vue Composition API Demo
 
-[Shailen Naidoo]() showcased his understanding of the Vue Composition API and how it solves the reusability of stateful logic  
+[Shailen Naidoo](https://github.com/ShailenNaidoo) showcased his understanding of the Vue Composition API and how it solves the reusability of stateful logic  
 
 ## Build Setup
 
